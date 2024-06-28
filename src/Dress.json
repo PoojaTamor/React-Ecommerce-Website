@@ -1,0 +1,90 @@
+[
+    {
+        "id":17,
+        "image":"https://littleboxindia.com/cdn/shop/products/cad51529eef7f9ad8bdce387f1e6e8f2_460x.jpg?v=1674207962",
+        "name":" Two Piece Dress",
+        "price":90.54,
+        "img1":"https://littleboxindia.com/cdn/shop/products/cad51529eef7f9ad8bdce387f1e6e8f2_460x.jpg?v=1674207962",
+        "img2":"https://littleboxindia.com/cdn/shop/products/5e79eb4d26055023718bf44bab0f0067_180x.jpg?v=1701518952",
+        "img3":"https://littleboxindia.com/cdn/shop/products/c61b4ba331c484917b1d607845c8b56d_180x.jpg?v=1674207962",
+        "img4":"https://littleboxindia.com/cdn/shop/products/c900ddb80a03074b3bf97fade600dbd9_180x.jpg?v=1674207962" ,
+        "qty":1  
+    },
+    {
+        "id":18,
+        "image":"https://littleboxindia.com/cdn/shop/products/e2c177d4c49f75b3433a7256f4624d57_460x.jpg?v=1707105166",
+        "name":"Blazer Mini Dress",
+        "price":87.94,
+        "img1":"https://littleboxindia.com/cdn/shop/products/e2c177d4c49f75b3433a7256f4624d57_460x.jpg?v=1707105166",
+        "img2":"https://littleboxindia.com/cdn/shop/products/a56809f25c9b17f51820b2dff6bba827_460x.jpg?v=1707105166",
+        "img3":"https://littleboxindia.com/cdn/shop/products/46d60cb8ded687eefc871ce66058186c_460x.jpg?v=1701522337",
+        "img4":"https://littleboxindia.com/cdn/shop/products/300fb7e6ca7680548532753534cb29ab_460x.jpg?v=1701522337",
+        "qty":1   
+    },
+    {
+        "id":19,
+        "image":"https://littleboxindia.com/cdn/shop/products/1d5ac0cb48c39780713e0c070f89a8ad_460x.jpg?v=1697626405",
+        "name":"Square Neck Mini Dress",
+        "price":67.89,
+        "img1":"https://littleboxindia.com/cdn/shop/products/1d5ac0cb48c39780713e0c070f89a8ad_460x.jpg?v=1697626405",
+        "img2":"https://littleboxindia.com/cdn/shop/products/a519d6d25f654fab6beb6febaceea5be_460x.jpg?v=1710412249",
+        "img3":"https://littleboxindia.com/cdn/shop/products/83b8be003209b7e2b3e4d2c8e7be9d1a_460x.jpg?v=1697625867",
+        "img4":"https://littleboxindia.com/cdn/shop/products/8133a2c504513e368906c528c488a50e_460x.jpg?v=1697626241" ,
+        "qty":1  
+    },
+    {
+        "id":20,
+        "image":"https://littleboxindia.com/cdn/shop/products/ea69f354b487e1b0bcc8c29c1d3a8bb6_460x.jpg?v=1707488281",
+        "name":"Mini Dress",
+        "price":77.34,
+        "img1":"https://littleboxindia.com/cdn/shop/products/ea69f354b487e1b0bcc8c29c1d3a8bb6_460x.jpg?v=1707488281",
+        "img2":"https://littleboxindia.com/cdn/shop/products/739c5e71db7f1e83b5201187ab5b85eb_460x.jpg?v=1707488281",
+        "img3":"https://littleboxindia.com/cdn/shop/products/44d1f36fa5de8a879c78385b06e35b5b_460x.jpg?v=1707488281",
+        "img4":"https://littleboxindia.com/cdn/shop/products/739c5e71db7f1e83b5201187ab5b85eb_460x.jpg?v=1707488281" ,
+        "qty":1  
+    },
+    {
+        "id":21,
+        "image":"https://littleboxindia.com/cdn/shop/products/30bac537f7e78698dbedb638de18b401_460x.jpg?v=1690557463",
+        "name":"Drawstring Midi Dress",
+        "price":80.32,
+        "img1":"https://littleboxindia.com/cdn/shop/products/30bac537f7e78698dbedb638de18b401_460x.jpg?v=1690557463",
+        "img2":"https://littleboxindia.com/cdn/shop/products/93dfed10988c92145d3d15e2f89168a6_180x.jpg?v=1690557463",
+        "img3":"https://littleboxindia.com/cdn/shop/products/a24fe0fe1fe9053b3493f8e810c19073_180x.jpg?v=1690557463",
+        "img4":"https://littleboxindia.com/cdn/shop/products/5f73d8f59e116091f27d07b6c0d15957_180x.jpg?v=1690557463"  ,
+        "qty":1 
+    },
+    {
+        "id":22,
+        "image":"https://littleboxindia.com/cdn/shop/products/6461f7c7cdf1a7d3f50fc634f8ee7195_460x.jpg?v=1689436678",
+        "name":"Solid Midi Dress",
+        "price":98.44,
+        "img1":"https://littleboxindia.com/cdn/shop/products/6461f7c7cdf1a7d3f50fc634f8ee7195_460x.jpg?v=1689436678",
+        "img2":"https://littleboxindia.com/cdn/shop/products/599a740b97d76f5fadfd282efff2741b_180x.jpg?v=1689436678",
+        "img3":"https://littleboxindia.com/cdn/shop/files/203d_180x.jpg?v=1691407205",
+        "img4":"https://littleboxindia.com/cdn/shop/products/0c3a28acf76c4a381d46794db53cc7ba_180x.jpg?v=1689436678" ,
+        "qty":1  
+    },
+    {
+        "id":23,
+        "image":"https://littleboxindia.com/cdn/shop/products/6a_1_460x.jpg?v=1679069367",
+        "name":"Drawstring Midi Dress",
+        "price":76.88,
+        "img1":"https://littleboxindia.com/cdn/shop/products/6a_1_460x.jpg?v=1679069367",
+        "img2":"https://littleboxindia.com/cdn/shop/products/6b_1_180x.jpg?v=1679069367",
+        "img3":"https://littleboxindia.com/cdn/shop/products/70a_0efe8c38-f4e3-49e8-a8a6-9ac4d1afcb7c_460x.jpg?v=1680260319",
+        "img4":"https://littleboxindia.com/cdn/shop/products/70b_27bdc1b6-83c8-4490-93c8-73236b51a3b2_180x.jpg?v=1680260323"  ,
+        "qty":1 
+    },
+    {
+        "id":24,
+        "image":"https://littleboxindia.com/cdn/shop/products/872b8b5bf884eb1a0e28e5302d508b19_460x.jpg?v=1688567959",
+        "name":"Loungewear Slit Dress",
+        "price":66.86,
+        "img1":"https://littleboxindia.com/cdn/shop/products/872b8b5bf884eb1a0e28e5302d508b19_460x.jpg?v=1688567959",
+        "img2":"https://littleboxindia.com/cdn/shop/products/ed3747965ae28cc76c699f6b1d9f0a74_360x.jpg?v=1688567959",
+        "img3":"https://littleboxindia.com/cdn/shop/products/01143618d3ca79919f37f98a91991c24_360x.jpg?v=1688567959",
+        "img4":"https://littleboxindia.com/cdn/shop/products/8d05a388774b3c9f2a32280db3b79f50_180x.jpg?v=1688567959"  ,
+        "qty":1 
+    }
+]

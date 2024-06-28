@@ -1,0 +1,90 @@
+[
+    {
+        "id":9,
+        "image":"https://littleboxindia.com/cdn/shop/products/ba3aeea553a36e47293f2fb54fde3c48_460x.jpg?v=1684841723",
+        "name":"Baggy Trouser ",
+        "price":90.54,
+        "img1":"https://littleboxindia.com/cdn/shop/products/ba3aeea553a36e47293f2fb54fde3c48_460x.jpg?v=1684841723",
+        "img2":"https://littleboxindia.com/cdn/shop/products/bdbfa6aef51e90e17461adcb31d4cea3_360x.jpg?v=1684841723",
+        "img3":"https://littleboxindia.com/cdn/shop/products/8b6576067a365e4b1661cad51e95881f_9d2af4be-305e-4d1b-82d0-5b19c1a67225_460x.jpg?v=1691248320",
+        "img4":"https://littleboxindia.com/cdn/shop/products/bdbf510342adc444e71fd87dd25420d4_54c3742f-63c8-460e-9090-e742806e1650_460x.jpg?v=1691248320",
+        "qty":1   
+    },
+    {
+        "id":10,
+        "image":"https://littleboxindia.com/cdn/shop/products/572220ed1ad54b528076f5bc7642c2b3_460x.jpg?v=1692284428",
+        "name":"High Waist Pants",
+        "price":87.94,
+        "img1":"https://littleboxindia.com/cdn/shop/products/572220ed1ad54b528076f5bc7642c2b3_460x.jpg?v=1692284428",
+        "img2":"https://littleboxindia.com/cdn/shop/products/55b4b02005ce0f8d9830496eb6091513_360x.jpg?v=1692284428",
+        "img3":"https://littleboxindia.com/cdn/shop/products/9a64ce36507f9e9a353099bff191f5fa_360x.jpg?v=1692284428",
+        "img4":"https://littleboxindia.com/cdn/shop/products/7cd754a301969935ff2bb710b97d082e_180x.jpg?v=1692284428" ,
+        "qty":1  
+    },
+    {
+        "id":11,
+        "image":"https://littleboxindia.com/cdn/shop/products/6257e8f1b190c0cb5034cdfbd1dc0056_2062ca11-841f-4c89-8287-b81ba6996794_460x.jpg?v=1698515148",
+        "name":"High Waist Trouser ",
+        "price":67.89,
+        "img1":"https://littleboxindia.com/cdn/shop/products/6257e8f1b190c0cb5034cdfbd1dc0056_2062ca11-841f-4c89-8287-b81ba6996794_460x.jpg?v=1698515148",
+        "img2":"https://littleboxindia.com/cdn/shop/products/a5e3cd1e00738c12cd97c776ecf1cc5f_316250df-c817-445e-a0b2-53186e535062_180x.jpg?v=1698515148",
+        "img3":"https://littleboxindia.com/cdn/shop/products/ff81922ce16baa9ecb78d0933cd463b6_33cee92e-7949-4c76-84ef-f0a2a442477f_180x.jpg?v=1698515148",
+        "img4":"https://littleboxindia.com/cdn/shop/products/da35910e6c64f3fb69317ee9c79097ee_a2f99c94-ce2d-4008-bd9c-84b6f01e6881_180x.jpg?v=1698515148"  ,
+        "qty":1 
+    },
+    {
+        "id":12,
+        "image":"https://littleboxindia.com/cdn/shop/products/20e401e0a6cd202865444ea93c88e252_460x.jpg?v=1692281737",
+        "name":"Nostalgia Pleated Pants",
+        "price":77.34,
+        "img1":"https://littleboxindia.com/cdn/shop/products/20e401e0a6cd202865444ea93c88e252_460x.jpg?v=1692281737",
+        "img2":"https://littleboxindia.com/cdn/shop/products/6cdf5b7478e1166ad95fdbb5484b9ac3_180x.jpg?v=1692281737",
+        "img3":"https://littleboxindia.com/cdn/shop/products/a37e4b601291425fa22f2b2e91bd66b8_180x.jpg?v=1692281737",
+        "img4":"https://littleboxindia.com/cdn/shop/products/192865fcacc4ac98747cfe3b133c0437_180x.jpg?v=1692281737"  ,
+        "qty":1 
+    },
+    {
+        "id":13,
+        "image":"https://littleboxindia.com/cdn/shop/products/572220ed1ad54b528076f5bc7642c2b3_460x.jpg?v=1692284428",
+        "name":" Wide Leg Pants",
+        "price":80.32,
+        "img1":"https://littleboxindia.com/cdn/shop/products/572220ed1ad54b528076f5bc7642c2b3_460x.jpg?v=1692284428",
+        "img2":"https://littleboxindia.com/cdn/shop/products/55b4b02005ce0f8d9830496eb6091513_460x.jpg?v=1692284428",
+        "img3":"https://littleboxindia.com/cdn/shop/products/9a64ce36507f9e9a353099bff191f5fa_460x.jpg?v=1692284428",
+        "img4":"https://littleboxindia.com/cdn/shop/products/7cd754a301969935ff2bb710b97d082e_460x.jpg?v=1692284428",
+        "qty":1   
+    },
+    {
+        "id":14,
+        "image":"https://littleboxindia.com/cdn/shop/products/fab93d4ceb93a24ee0ba9ccae5548cac_460x.jpg?v=1679647505",
+        "name":" Double Pocket Trousers",
+        "price":98.44,
+        "img1":"https://littleboxindia.com/cdn/shop/products/fab93d4ceb93a24ee0ba9ccae5548cac_460x.jpg?v=1679647505",
+        "img2":"https://littleboxindia.com/cdn/shop/products/afde795b65303bf8b2fadff2ed00c964_460x.jpg?v=1670843220",
+        "img3":"https://littleboxindia.com/cdn/shop/products/460e998897d82909fbccdcbe0e051778_460x.jpg?v=1670843491",
+        "img4":"https://littleboxindia.com/cdn/shop/products/43286f4a10406214f9e0598b6857e138_460x.jpg?v=1670843753",
+        "qty":1 
+    },
+    {
+        "id":15,
+        "image":"https://littleboxindia.com/cdn/shop/products/7609fc50f9f374664295adfc4e5816b6_784e7e94-6c73-4a96-95ae-e990ffb53662_460x.jpg?v=1683124605",
+        "name":"Wide Leg Trousers",
+        "price":76.88,
+        "img1":"https://littleboxindia.com/cdn/shop/products/7609fc50f9f374664295adfc4e5816b6_784e7e94-6c73-4a96-95ae-e990ffb53662_460x.jpg?v=1683124605",
+        "img2":"https://littleboxindia.com/cdn/shop/products/f48d13605da791780824b32cef8661b7_460x.jpg?v=1681215273",
+        "img3":"https://littleboxindia.com/cdn/shop/products/551e76d37596fea5a4b7daf013bb10c5_460x.jpg?v=1683124381",
+        "img4":"https://littleboxindia.com/cdn/shop/products/debcb47c4b65f51b7734757e23eba486_460x.jpg?v=1683210922",
+        "qty":1   
+    },
+    {
+        "id":16,
+        "image":"https://littleboxindia.com/cdn/shop/products/b58bb55dd5602570d453105f1f509b30_460x.jpg?v=1683984628",
+        "name":" Baggy Fit Cargo",
+        "price":66.86,
+        "img1":"https://littleboxindia.com/cdn/shop/products/b58bb55dd5602570d453105f1f509b30_460x.jpg?v=1683984628",
+        "img2":"https://littleboxindia.com/cdn/shop/products/2a80393bb4b41034a472ce15d0710206_360x.jpg?v=1683984628",
+        "img3":"https://littleboxindia.com/cdn/shop/products/1dbea80609fc2e6359476c82311407c2_360x.jpg?v=1683984628",
+        "img4":"https://littleboxindia.com/cdn/shop/products/4194da2cd0af5990fa5edd809f1901ff_180x.jpg?v=1683984628" ,
+        "qty":1  
+    }
+]
