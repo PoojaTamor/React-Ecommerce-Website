@@ -83,7 +83,7 @@ const Footer = () => {
      "
     >
       <hr />
-      <p className="text-center pb-4"> Copy @ by pooja</p>
+      <p className="text-center pb-4">  Developed @ by pooja</p>
     </div>
   </div>
   

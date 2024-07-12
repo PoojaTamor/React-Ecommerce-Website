@@ -16,10 +16,10 @@ const AddToCartItems = ({addcart, count,QuntityHandler ,handleDelete}) => {
       const HandleSubTotal = () => {
       
         addcart.forEach((item) => {
-          sum += item.qty * item.price;  // Assuming the quantity property is 'qty'
+          sum += item.qty * item.price;  
         });
       
-        SetSubtotal(sum);  // Make sure to handle the case where 'sum' is NaN
+        SetSubtotal(sum);  
       };
 
       // total  price of each product in cart list
@@ -33,7 +33,7 @@ const AddToCartItems = ({addcart, count,QuntityHandler ,handleDelete}) => {
                     <div className="card">
                         <div className="card-header bg-dark p-3">
                             <div className="card-header-flex">
-                                <h5 className="text-white m-0"> My Cart   </h5>
+                                <h5 className="text-white m-0"> My Cart </h5>
                                 <h6 className="text-white m-0">Item:<span style={{color:"#fbb72c"}}>{count}</span></h6>
 
                             </div>
