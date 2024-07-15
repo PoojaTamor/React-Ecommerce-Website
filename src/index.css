@@ -366,14 +366,13 @@ button.btn-close.btn-close-white {
 
 .icon1{
     position: absolute;
-    bottom: 0px;
+    bottom: -3px;
     transition: all 0.5s ease;
 
  }
  .icon2{
     position: absolute;
     transition: all 0.5s ease;
-
     bottom: -2px;
  }
  .icon1-move {
