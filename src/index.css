@@ -332,7 +332,57 @@ button.btn-close.btn-close-white {
 .footer-bottom-copy-rite-box {
     padding-top: 50px;
 }
+/* ======================enquery================= */
+.icon-box1{
+    color: #fff;
+}
+.icon-box1 .fa-phone:before {
+    content: "\f095";
+    color: #fff;
+    font-size: 15px;
+}
+.icon-box1 .fa-whatsapp:before {
+    content: "\f232";
+    color: #fff;
+    font-size: 22px;
+}
 
+.icon-box1 button{
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.messageicon{
+    position: relative;
+}
+
+.messageicon .fa-comment-alt:before, .fa-message:before {
+    content: "\f27a";
+    font-size: 18px;
+}
+
+.icon1{
+    position: absolute;
+    bottom: 0px;
+    transition: all 0.5s ease;
+
+ }
+ .icon2{
+    position: absolute;
+    transition: all 0.5s ease;
+
+    bottom: -2px;
+ }
+ .icon1-move {
+    bottom: 50px ;
+  }
+  .icon2-move {
+    bottom: 100px ;
+
+  }
 /* ====================product-detail-page========== */
 
 .cart-sec {
