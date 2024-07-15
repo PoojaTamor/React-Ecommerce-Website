@@ -382,6 +382,9 @@ button.btn-close.btn-close-white {
     bottom: 100px ;
 
   }
+.btn-check:active+.btn-danger:focus, .btn-check:checked+.btn-danger:focus, .btn-danger.active:focus, .btn-danger:active:focus, .show>.btn-danger.dropdown-toggle:focus {
+    box-shadow: none;
+  }
 /* ====================product-detail-page========== */
 
 .cart-sec {
